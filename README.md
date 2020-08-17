@@ -2,7 +2,7 @@
 
 ## Tesseract .Net wrapper
 
-v4.1.0.0 beta recompiled to avoid crashed on remote virtual machines
+v4.1.0.0 beta recompiled to avoid crashes on remote virtual machines
 
 ### Example
 
